@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FenrisRaa
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Unreal Engine 5
+- 🌱 I’m currently learning Unreal Engine 5 / Raylib
 
 <!---
 FenrisRaa/FenrisRaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
